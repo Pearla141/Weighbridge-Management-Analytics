@@ -2,8 +2,8 @@
 
 ### SQL Server + Power BI | Granite Quarry Operations
 
-![Overview Dashboard](screenshots/dashboard_overview.jpeg)
-![Agent Performance Dashboard](screenshots/dashboard_agents.jpeg)
+![Overview Dashboard](dashboard_overview.jpeg)
+![Agent Performance Dashboard](dashboard_agents.jpeg)
 
 -----
 
