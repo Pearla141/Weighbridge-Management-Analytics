@@ -38,9 +38,9 @@ The difference (Net = Gross − Tare) determines how many tons of product were l
 |Total Transactions|1,769                                           |
 |Total Net Tons    |35,586.28                                       |
 |Total Revenue     |₦355,747,075                                    |
-|Active Agents     |57                                              |
+|Active Agents     |56                                              |
 |Active Trucks     |509                                             |
-|Operators         |3 (FUNKE, HANNA, KENNY)                         |
+|Operators         |3                          |
 |Products          |5/8, 3/8, 1/2, Stone Dust, Hard Core, Stone Base|
 
 **Note:** Sundays are excluded (quarry closed). A price change occurred on May 18, 2026 — 5/8 and 3/8 increased from ₦12,000/ton to ₦13,000/ton.
